@@ -51,4 +51,4 @@ Emmanuel Avelino Lima Barreto
 
 ## Site Publicado
 
-https://devmanell.github.io/site-eng-soft/
+https://devmanell.github.io/desafios-eng-soft/
